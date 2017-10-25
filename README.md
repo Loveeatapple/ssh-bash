@@ -5,6 +5,6 @@
 ##使用方法##
 运行
 
-    wget https://raw.githubusercontent.com/Loveeatapple/ssh-bash/master/mark1.sh && bash mark1.sh
+  `wget https://raw.githubusercontent.com/Loveeatapple/ssh-bash/master/mark1.sh && bash mark1.sh`
 
 按提示配置
